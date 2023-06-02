@@ -64,7 +64,6 @@ a {
 
 .hero {
   display: flex;
-  justify-content: center;
   align-items: center;
 }
 
@@ -100,12 +99,12 @@ a {
   letter-spacing: 0.005em;
   background-color: #52d0f0;
   color: #ffffff;
-  margin: 30px 167px 30px 40px;
+  margin-top: 15px;
 }
 
 .hero-img {
   margin-top: 60px;
-  /* margin-right: 40px; */
+  margin-left: 20px;
   width: 200px;
   height: 235px;
 }
