@@ -33,11 +33,6 @@ header {
 .logo {
   width: 130px;
   height: 37px;
-  margin: 20px 0px;
-}
-
-img {
-  width: 100%;
 }
 
 .menu-list {
@@ -110,7 +105,7 @@ a {
 
 .hero-img {
   margin-top: 60px;
-  margin-right: 40px;
+  /* margin-right: 40px; */
   width: 200px;
   height: 235px;
 }
